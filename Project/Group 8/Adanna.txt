@@ -1,0 +1,9 @@
+First name: Adanna
+Last name: NED-ONUOHA    
+Matno:SST/2019/0015
+CSC 201: 42
+CSC 205: 36
+MTH 201: 71
+MTH 205: 70
+GST 201: 41
+GPA: 2.4

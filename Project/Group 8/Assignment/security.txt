@@ -1,0 +1,4 @@
+Username 	 Password
+joe	 	pass
+moses	 	csc201
+sarah	 	cows

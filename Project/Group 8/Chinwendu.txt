@@ -1,0 +1,9 @@
+First name: Chinwendu
+Last name: NWEJE      
+Matno:SST/2019/0033
+CSC 201: 36
+CSC 205: 98
+MTH 201: 60
+MTH 205: 42
+GST 201: 90
+GPA: 3
